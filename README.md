@@ -12,4 +12,4 @@ These are five recommendations that you can follow to make your software more [F
 
 These recommendations are hosted in the [FAIR-software](https://fair-software.eu/) website. This website is the result of a collaboration between the Netherlands eScience Center and DANS, but everybody is welcome to join the effort!
 
-The FAIR software recommendations are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE).
+The FAIR software recommendations are licensed under a [Creative Commons Attribution 4.0 International License](LICENSE).
