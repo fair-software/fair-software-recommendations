@@ -1,0 +1,2 @@
+# What is FAIR?
+The [FAIR principles](https://www.nature.com/articles/sdata201618) are a concept which originated in data management. The acronym stands for Findable, Accessible, Interoperable and Reusable. They have served as a flagship for promoting good data management practices, but [until recently](https://dx.doi.org/10.3233/DS-190026) they were not directly applicable to software. We hope that the FAIR principles will have a positive effect in research software development.
