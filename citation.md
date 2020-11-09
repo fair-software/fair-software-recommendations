@@ -6,7 +6,7 @@ Citation helps software developers be recognized for their work. Additionally, c
 
 ## Help me choose
 
-The [CodeMeta](https://codemeta.github.io/) standard and the [Citation File Format](https://citation-file-format.github.io/) were specifically designed to enable citation of software and will likely meet your needs. For either one, you write a plain text file with citation metadata, which you then distribute with your software.
+[CodeMeta](https://codemeta.github.io/) and the [Citation File Format](https://citation-file-format.github.io/) were specifically designed to enable citation of software and will likely meet your needs. For either one, you write a plain text file with citation metadata, which you then distribute with your software.
 
 Initialize your CITATION.cff files [here](https://citation-file-format.github.io/cff-initializer-javascript/).
 
