@@ -18,6 +18,6 @@ One of our favorite checklists that meets these criteria is the Badge Program de
 
 - [Core Infrastructures Initiative](https://bestpractices.coreinfrastructure.org/en) (online, interactive)
 - Deutsches Zentrum für Luft- und Raumfahrt [Class 1](https://rse.dlr.de/download/checklist_applicationclass_1-markdown_v1.0.md), [Class 2](https://rse.dlr.de/download/checklist_applicationclass_2-markdown_v1.0.md), [Class 3](https://rse.dlr.de/download/checklist_applicationclass_3-markdown_v1.0.md) (MarkDown)
-- Software Sustainability Institute's software evaluation checklist ([Google form](https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform))
-- CLARIAH checklist ([PDF page 38-42](https://github.com/CLARIAH/software-quality-guidelines/blob/v1.0/softwareguidelines.pdf))
-- EURISE ([MarkDown](https://github.com/eurise-network/technical-reference/blob/v0.1/quality/software-checklist.rst))
+- [Software Sustainability Institute's software evaluation checklist](https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform) (Google form)
+- [CLARIAH checklist](https://github.com/CLARIAH/software-quality-guidelines/blob/v1.0/softwareguidelines.pdf) (PDF page 38-42)
+- [EURISE](https://github.com/eurise-network/technical-reference/blob/v0.1/quality/software-checklist.rst) (ReStructuredText)

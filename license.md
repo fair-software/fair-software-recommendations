@@ -2,7 +2,7 @@
 
 ## Why this is important?
 
-Any creative work (including software) is automatically protected by copyright. Even when the software is available via code sharing platforms such as GitHub, no one can use it unless they are explicitly granted permission. This is done by adding a software license, which defines the set of rules and conditions for people who want to use the software. Finally, be aware that you, as the developer of a given piece of software, may not be a copyright owner of the code you write. Usually the copyright holder of a work is the employer (or hiring party) and not the author of the work.
+Any creative work (including software) is automatically protected by copyright. Even when the software is available via code sharing platforms such as GitHub, no one can legally use it unless they are explicitly granted permission. This is done by adding a software license, which defines the set of rules and conditions for people who want to use the software. Finally, be aware that you, as the developer of a given piece of software, may not be a copyright owner of the code you write. Usually the copyright holder of a work is the employer (or hiring party) and not the author of the work.
 
 ## Help me choose
 
