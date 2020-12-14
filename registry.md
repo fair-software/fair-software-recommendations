@@ -14,4 +14,4 @@ Community registries come in many flavors. Choosing the one that is best suited 
 
 Finally, ask a couple of colleagues which registries they would use if they were looking for software like yours.
 
-[View all research software registries](https://github.com/NLeSC/awesome-research-software-registries)
+[View a list of software registries](https://github.com/NLeSC/awesome-research-software-registries)
