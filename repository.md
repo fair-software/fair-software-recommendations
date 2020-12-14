@@ -12,7 +12,8 @@ Using a version control system allows you to easily track changes in your softwa
 
 ## Help me choose
 
-Git is the most feature-rich, most modern and most popular version control system by a good margin, and we heartily recommend you use it for all your version control needs. To get the best out of Git, use it in combination with GitHub.com, Bitbucket.org, or GitLab.com.
+Git is the version control system which is most feature-rich, most modern and most popular by a good margin, and we heartily recommend you use it for all your version control needs. To get the best out of Git, use it in combination with GitHub.com, Bitbucket.org, or GitLab.com.
+
 
 - [How to get started with git](https://swcarpentry.github.io/git-novice/)
 - [Choosing a platform for your software project](https://software.ac.uk/choosing-repository-your-software-project)
