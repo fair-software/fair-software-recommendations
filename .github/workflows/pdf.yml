@@ -10,7 +10,7 @@ jobs:
       - name: Combine recommendations into single file
         run: ./convert.sh  # create an example file
       - name: Convert to PDF
-        uses: docker://pandoc/core:2.9
+        uses: docker://pandoc/latex:2.9
         with:
           args: |
             --output=recommendations.pdf recommendations.md
