@@ -1,6 +1,6 @@
 # Five recommendations for FAIR software
 
-These are five recommendations that you can follow to make your software more [FAIR](fair.ms).
+These are five recommendations that you can follow to make your software more [FAIR](fair.md).
 
  1. [Use a publicly accessible repository with version control](repository.md)
  2. [Add a License](license.md)
