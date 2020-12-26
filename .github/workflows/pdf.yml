@@ -1,7 +1,8 @@
 name: Generate PDF
 
-on: push
-
+on:
+  release:
+    types: [published]
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -18,6 +19,6 @@ jobs:
         with:
           node-version: '12'
       - name: Upload PDF to Zenodo
-        run: npx --package @iomeg/zenodo-upload zenodo_upload --sandbox 711602 recommendations.pdf "version_test01" ${{ secrets.ZENODO_TOKEN }}
+        run: npx --package @iomeg/zenodo-upload zenodo_upload --sandbox 711602 recommendations.pdf "${github_ref:10}" ${{ secrets.ZENODO_TOKEN }}
         env:
           github_ref: ${{ github.ref }}
