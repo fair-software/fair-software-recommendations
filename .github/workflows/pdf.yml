@@ -1,0 +1,24 @@
+name: Generate PDF
+
+on:
+  release:
+    types: [published]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Combine recommendations into single file
+        run: ./convert.sh  # create an example file
+      - name: Convert to PDF
+        uses: docker://pandoc/latex:2.9
+        with:
+          args: |
+            --output=recommendations.pdf recommendations.md
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12'
+      - name: Upload PDF to Zenodo
+        run: npx --package @iomeg/zenodo-upload zenodo_upload --sandbox 711602 recommendations.pdf "${github_ref:10}" ${{ secrets.ZENODO_TOKEN }}
+        env:
+          github_ref: ${{ github.ref }}
